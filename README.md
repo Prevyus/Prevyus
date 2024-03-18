@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Prevyus
 - 👀 I’m interested in Game Programming
-- 🌱 I’m currently learning C# and Unity
-- 💞️ I’m looking to collaborate on FutureGames
+- 🌱 I’m currently learning C#, C++, Unity, Unreal Engine and Blender
 - 📫 How to reach me: (Discord) Prevyus#9974
 
 <!---
