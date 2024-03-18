@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prevyus
 - 👀 I’m interested in Game Programming
 - 🌱 I’m currently learning C#, C++, Unity, Unreal Engine and Blender
-- 📫 How to reach me: (Discord) Prevyus#9974
+- 📫 How to reach me: (Discord) prevyus
 
 <!---
 Prevyus/Prevyus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
